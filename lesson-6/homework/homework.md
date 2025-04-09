@@ -1,5 +1,3 @@
---create database [F24_class6]
-use [F24_class6]
 
 --Puzzle 1
 --Question: If all the columns have zero values, 
