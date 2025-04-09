@@ -1,6 +1,4 @@
-create database F24_class8
 
-use F24_class8
 
 create table Students (ID int, First_name varchar(30), age int)
 
